@@ -32,4 +32,4 @@
   1. [마강현](https://www.google.com)
   2. [이인성](https://www.google.com)
   3. [이호성](https://github.com/fore-head/210720_Painting-Fence_LHS)
-  4. [최주은](https://www.google.com)
+  4. [최주은](https://github.com/fore-head/210720_Painting-Fence_CJE)
