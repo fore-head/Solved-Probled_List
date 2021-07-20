@@ -1,7 +1,7 @@
 # Solved-Probled_List
 
 - 2021.07.05 [Editor](https://www.acmicpc.net/problem/1406) (백준)
-  1. [마강현](https://www.google.com)
+  1. [마강현](https://github.com/fore-head/210705_Editor_MKH)
   2. [이인성](https://github.com/fore-head/210705_Editor_LIS)
   3. [이호성](https://github.com/fore-head/210705_Editor_LHS)
   4. [최주은](https://www.google.com)
