@@ -21,7 +21,7 @@
 ***
 
 - 2021.07.13 [Minimum-Heap](https://www.acmicpc.net/problem/1927) (백준)
-  1. [마강현](https://www.google.com)
+  1. [마강현](https://github.com/fore-head/210713_Minimum-Heap_MKH)
   2. [이인성](https://github.com/fore-head/210713_Minimum-Heap_LIS)
   3. [이호성](https://github.com/fore-head/210713_Minimum-Heap_LHS)
   4. [최주은](https://www.google.com)
