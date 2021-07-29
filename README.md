@@ -36,20 +36,34 @@
 
 ***
 
-- 2021.07.20 [Printing-Star](https://www.acmicpc.net/problem/2447) (백준)
+- 2021.07.27 [Printing-Star](https://www.acmicpc.net/problem/2447) (백준)
   1. [마강현](https://github.com/fore-head/210727_Printing-Star_MKH)
   2. [이인성](https://github.com/fore-head/210727_Printing-Star_LIS)
   3. [이호성](https://github.com/fore-head/210727_Printing-Star_LHS)
   4. [최주은](https://github.com/fore-head/210727_Printing-Star_CJE)
 
-- 2021.07.20 [Tournament](https://www.acmicpc.net/problem/2262) (백준)
+- 2021.07.27 [Tournament](https://www.acmicpc.net/problem/2262) (백준)
   1. [마강현](https://github.com/fore-head/210727_Tournament_MKH)
   2. [이인성](https://github.com/fore-head/210727_Tournament_LIS)
   3. [이호성](https://github.com/fore-head/210727_Tournament_LHS)
   4. [최주은](https://github.com/fore-head/210727_Tournament_CJE)
 
-- 2021.07.20 [Party](https://www.acmicpc.net/problem/1238) (백준)
+- 2021.07.27 [Party](https://www.acmicpc.net/problem/1238) (백준)
   1. [마강현](https://github.com/fore-head/210727_Party_MKH)
   2. [이인성](https://github.com/fore-head/210727_Party_LIS)
   3. [이호성](https://github.com/fore-head/210727_Party_LHS)
   4. [최주은](https://github.com/fore-head/210727_Party_CJE)
+
+***
+
+- 2021.08.03 [Travel-of-Sangkeun](https://www.acmicpc.net/problem/9372) (백준)
+  1. [마강현](https://github.com/fore-head/210803-Travel-of-Sangkeun_MKH)
+  2. [이인성](https://github.com/fore-head/210803-Travel-of-Sangkeun_LIS)
+  3. [이호성](https://github.com/fore-head/210803-Travel-of-Sangkeun_LHS)
+  4. [최주은](https://github.com/fore-head/210803-Travel-of-Sangkeun_CJE)
+
+- 2021.08.03 [Hamburger-Distributioㅜ](https://www.acmicpc.net/problem/19941) (백준)
+  1. [마강현](https://github.com/fore-head/210803_Hamburger-Distribution_MKH)
+  2. [이인성](https://github.com/fore-head/210803_Hamburger-Distribution_LIS)
+  3. [이호성](https://github.com/fore-head/210803_Hamburger-Distribution_LHS)
+  4. [최주은](https://github.com/fore-head/210803_Hamburger-Distribution_CJE)
