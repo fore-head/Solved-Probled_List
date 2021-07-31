@@ -62,7 +62,7 @@
   3. [이호성](https://github.com/fore-head/210803-Travel-of-Sangkeun_LHS)
   4. [최주은](https://github.com/fore-head/210803-Travel-of-Sangkeun_CJE)
 
-- 2021.08.03 [Hamburger-Distributioㅜ](https://www.acmicpc.net/problem/19941) (백준)
+- 2021.08.03 [Hamburger-Distribution](https://www.acmicpc.net/problem/19941) (백준)
   1. [마강현](https://github.com/fore-head/210803_Hamburger-Distribution_MKH)
   2. [이인성](https://github.com/fore-head/210803_Hamburger-Distribution_LIS)
   3. [이호성](https://github.com/fore-head/210803_Hamburger-Distribution_LHS)
