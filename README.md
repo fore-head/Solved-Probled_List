@@ -67,3 +67,17 @@
   2. [이인성](https://github.com/fore-head/210803_Hamburger-Distribution_LIS)
   3. [이호성](https://github.com/fore-head/210803_Hamburger-Distribution_LHS)
   4. [최주은](https://github.com/fore-head/210803_Hamburger-Distribution_CJE)
+
+***
+
+- 2021.08.10 [Make-to-1](https://www.acmicpc.net/problem/1463) (백준)
+  1. [마강현](https://github.com/fore-head/210810_Make-to-1_MKH)
+  2. [이인성](https://github.com/fore-head/210810_Make-to-1_LIS)
+  3. [이호성](https://github.com/fore-head/210810_Make-to-1_LHS)
+  4. [최주은](https://github.com/fore-head/210810_Make-to-1_CJE)
+
+- 2021.08.10 [Cram-for-Test](https://www.acmicpc.net/problem/14728) (백준)
+  1. [마강현](https://github.com/fore-head/210810_Cram-for-Test_MKH)
+  2. [이인성](https://github.com/fore-head/210810_Cram-for-Test_LIS)
+  3. [이호성](https://github.com/fore-head/210810_Cram-for-Test_LHS)
+  4. [최주은](https://github.com/fore-head/210810_Cram-for-Test_CJE)
