@@ -81,3 +81,17 @@
   2. [이인성](https://github.com/fore-head/210810_Cram-for-Test_LIS)
   3. [이호성](https://github.com/fore-head/210810_Cram-for-Test_LHS)
   4. [최주은](https://github.com/fore-head/210810_Cram-for-Test_CJE)
+
+***
+
+- 2021.08.10 [Show-Me-The-Mochi](https://www.acmicpc.net/problem/2502) (백준)
+  1. [마강현](https://github.com/fore-head/210817_Show-Me-The-Mochi_MKH)
+  2. [이인성](https://github.com/fore-head/210817_Show-Me-The-Mochi_LIS)
+  3. [이호성](https://github.com/fore-head/210817_Show-Me-The-Mochi_LHS)
+  4. [최주은](https://github.com/fore-head/210817_Show-Me-The-Mochi_CJE)
+
+- 2021.08.10 [Downhill](https://www.acmicpc.net/problem/1520) (백준)
+  1. [마강현](https://github.com/fore-head/210817_Downhill_MKH)
+  2. [이인성](https://github.com/fore-head/210817_Downhill_LIS)
+  3. [이호성](https://github.com/fore-head/210817_Downhill_LHS)
+  4. [최주은](https://github.com/fore-head/210817_Downhill_CJE)
