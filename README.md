@@ -103,3 +103,17 @@
   2. [이인성](https://github.com/fore-head/210824_Binary-Tree_LIS)
   3. [이호성](https://github.com/fore-head/210824_Binary-Tree_LHS)
   4. [최주은](https://github.com/fore-head/210824_Binary-Tree_CJE)
+
+***
+
+- 2021.08.30 [Puppet-Draw](https://programmers.co.kr/learn/courses/30/lessons/64061) (프로그래머스)
+  1. [마강현](https://github.com/fore-head/210830_Puppet-Draw_MKH)
+  2. [이인성](https://github.com/fore-head/210830_Puppet-Draw_LIS)
+  3. [이호성](https://github.com/fore-head/210830_Puppet-Draw_LHS)
+  4. [최주은](https://github.com/fore-head/210830_Puppet-Draw_CJE)
+
+- 2021.08.30 [Keypad](https://programmers.co.kr/learn/courses/30/lessons/67256) (프로그래머스)
+  1. [마강현](https://github.com/fore-head/210830_Keypad_MKH)
+  2. [이인성](https://github.com/fore-head/210830_Keypad_LIS)
+  3. [이호성](https://github.com/fore-head/210830_Keypad_LHS)
+  4. [최주은](https://github.com/fore-head/210830_Keypad_CJE)
